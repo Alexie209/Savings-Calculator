@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.income.Income", "_Entity__entity_id": "1", "_Income__name": "wage", "_Income__realized_income": 3000, "_Income__month": "March"}}
